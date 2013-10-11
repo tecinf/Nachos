@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/sob/!svn/ver/1/nachos5/bin
+END
+opstrings.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/sob/!svn/ver/1/nachos5/bin/opstrings.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/sob/!svn/ver/1/nachos5/bin/Makefile
+END
+noff.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/sob/!svn/ver/1/nachos5/bin/noff.h
+END
+int.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/sob/!svn/ver/1/nachos5/bin/int.h
+END
+execute.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/sob/!svn/ver/1/nachos5/bin/execute.c
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/sob/!svn/ver/1/nachos5/bin/encode.h
+END
+instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/sob/!svn/ver/1/nachos5/bin/instr.h
+END
+coff2flat.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/sob/!svn/ver/1/nachos5/bin/coff2flat.c
+END
+out.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/sob/!svn/ver/1/nachos5/bin/out.c
+END
+coff2noff.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/sob/!svn/ver/1/nachos5/bin/coff2noff.c
+END
+disasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/sob/!svn/ver/1/nachos5/bin/disasm.c
+END
+coff.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/sob/!svn/ver/1/nachos5/bin/coff.h
+END
+d.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/sob/!svn/ver/1/nachos5/bin/d.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/sob/!svn/ver/1/nachos5/bin/system.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/sob/!svn/ver/1/nachos5/bin/main.c
+END
