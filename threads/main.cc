@@ -88,6 +88,7 @@ main(int argc, char **argv)
     ThreadTest();
 #endif
 
+	printf("Modificacion por Seth");
     for (argc--, argv++; argc > 0; argc -= argCount, argv += argCount) {
 	argCount = 1;
         if (!strcmp(*argv, "-z"))               // print copyright
